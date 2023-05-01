@@ -11,7 +11,13 @@ Guides:
 5. Play around: ChatGPT + Code Interpreter = [Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
 
 ## Submissions
-Student submissions will be posted here at the end of the challenge!
+Our Favourite submission and winner from this challenge:
+
+@ScroogesMoneybin:
+- [https://fancy-kashata-46b834.netlify.app/](https://fancy-kashata-46b834.netlify.app/)
+- Github Repo: [https://github.com/ScroogesMoneybin/Storyteller](https://github.com/ScroogesMoneybin/Storyteller)
+
+
 
 ## The Rules:
 
